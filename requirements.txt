@@ -3,4 +3,4 @@ channels
 django_heroku
 gunicorn
 whitenoise
-fcntl
+
