@@ -1,5 +1,5 @@
 import os
-import django_heroku
+
 
 
 
@@ -110,4 +110,4 @@ CHANNEL_LAYERS = {
     }
 }
 
-django_heroku.settings(locals())
+# django_heroku.settings(locals())
