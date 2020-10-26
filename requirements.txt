@@ -1,6 +1,3 @@
 django
 channels
-django_heroku
-gunicorn
-whitenoise
 
